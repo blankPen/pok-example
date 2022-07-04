@@ -1,0 +1,1 @@
+console.log(`模板项目：{{projectName}}`)
